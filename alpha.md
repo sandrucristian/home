@@ -1,0 +1,32 @@
+# monitor mod functional
+
+[Device] Alfa Networks AWUS036ACH<br>
+[Chipset] 88XXau (rtl8812au)<br>
+
+Functioneaza cu urmatoarea `iso` testat in live mode.
+<br>
+`Parrot-security-5.0.1_amd64.iso`
+<br>
+
+tutorialele leam luat de pe urmatorea pagina<br>
+
+https://github.com/aircrack-ng/rtl8812au<br>
+
+Comform instructiunilor de pe saitu de mai sus rulam urmatoarele comenzi in termninal<br>
+
+```
+sudo apt-get install dkms
+git clone -b v5.6.4.2 https://github.com/aircrack-ng/rtl8812au.git
+cd rtl*
+sudo make dkms_install
+```
+
+dupa instalare sa nu uitam sa rulam comanda urmatoare pentru a distruge procesele inutile
+
+```
+airmon-ng check kill
+```
+
+https://github.com/morrownr/8812au<br>
+
+Saitu original pentru draivere.
