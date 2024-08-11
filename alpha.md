@@ -34,3 +34,5 @@ Saitu original pentru draivere.
 am mai gasit o adresa pentru drivere exact pe saitu oficial.
 
 https://docs.alfa.com.tw/Support/Linux/RTL8812AU/
+
+https://github.com/0xh4di/GSMDecryption/tree/master/files
