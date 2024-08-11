@@ -33,4 +33,4 @@ Saitu original pentru draivere.
 
 am mai gasit o adresa pentru drivere exact pe saitu oficial.
 
-docs.alfa.com.tw/Support/Linux/RTL8812AU
+https://docs.alfa.com.tw/Support/Linux/RTL8812AU/
