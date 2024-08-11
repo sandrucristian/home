@@ -30,3 +30,7 @@ airmon-ng check kill
 https://github.com/morrownr/8812au<br>
 
 Saitu original pentru draivere.
+
+am mai gasit o adresa pentru drivere exact pe saitu oficial.
+
+docs.alfa.com.tw/Support/Linux/RTL8812AU
